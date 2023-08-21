@@ -1,0 +1,11 @@
+Esse projeto de estudp consiste em uma api de lista de tarefas
+
+Como rodar o projeto:
+1. criar e ativar ambiente virtual:
+python -m venv venv
+.\venv\Scripts\activate
+
+2. Instalar bibliotecas necessarias:
+pip install -r requirements.txt
+
+3. Executar a app.py
